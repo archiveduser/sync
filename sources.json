@@ -1,0 +1,7 @@
+[
+  {
+    "repo": "archiveduser/siosub-plugin",
+    "enabled": true,
+    "assetPattern": "*.zip"
+  }
+]
