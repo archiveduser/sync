@@ -5,7 +5,7 @@
     "Punchline": "Listen to Socket.IO events and print messages to chat.",
     "Description": "Connects to one or more Socket.IO servers, listens to configured events, and prints received text messages to selected in-game chat channels.",
     "InternalName": "SioSub",
-    "AssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.1.2.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -21,9 +21,9 @@
     "RepoUrl": "https://github.com/archiveduser/siosub-plugin",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/archiveduser/siosub-plugin/releases/download/0.1.1.0/SioSub-0.1.1.0.zip",
-    "DownloadLinkUpdate": "https://github.com/archiveduser/siosub-plugin/releases/download/0.1.1.0/SioSub-0.1.1.0.zip",
-    "LastUpdate": "1778665844"
+    "DownloadLinkInstall": "https://github.com/archiveduser/siosub-plugin/releases/download/0.1.2.0/SioSub-0.1.2.0.zip",
+    "DownloadLinkUpdate": "https://github.com/archiveduser/siosub-plugin/releases/download/0.1.2.0/SioSub-0.1.2.0.zip",
+    "LastUpdate": "1779104226"
   }
 ]
 
