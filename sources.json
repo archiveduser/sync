@@ -3,5 +3,10 @@
     "repo": "archiveduser/siosub-plugin",
     "enabled": true,
     "assetPattern": "*.zip"
+  },
+  {
+    "repo": "archiveduser/dutyguide-plugin",
+    "enabled": true,
+    "assetPattern": "*.zip"
   }
 ]
