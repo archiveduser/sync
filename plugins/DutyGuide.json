@@ -1,0 +1,26 @@
+{
+  "Author": "kamino",
+  "Name": "DutyGuide",
+  "Punchline": "Show current duty information.",
+  "Description": "Use /dutyguide to open the current duty guide in Browsingway. Requires Browsingway and an overlay named dutyguide.",
+  "InternalName": "DutyGuide",
+  "AssemblyVersion": "0.1.1.0",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "Tags": [
+    "duty",
+    "guide"
+  ],
+  "AcceptsFeedback": true,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "RepoUrl": "https://github.com/archiveduser/dutyguide-plugin",
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "DownloadLinkInstall": "https://github.com/archiveduser/dutyguide-plugin/releases/download/0.1.1.0/DutyGuide-0.1.1.0.zip",
+  "DownloadLinkUpdate": "https://github.com/archiveduser/dutyguide-plugin/releases/download/0.1.1.0/DutyGuide-0.1.1.0.zip",
+  "LastUpdate": "1780474451"
+}
+
