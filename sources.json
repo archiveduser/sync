@@ -5,7 +5,12 @@
     "assetPattern": "*.zip"
   },
   {
-    "repo": "archiveduser/dutyguide-plugin",
+    "repo": "archiveduser/duty-guide-dalamud",
+    "enabled": true,
+    "assetPattern": "*.zip"
+  },
+  {
+    "repo": "archiveduser/solo-trigger-dalamud",
     "enabled": true,
     "assetPattern": "*.zip"
   }
