@@ -1,8 +1,8 @@
 {
   "Author": "kamino",
   "Name": "Solo Trigger",
-  "Punchline": "根据附近玩家人数自动执行命令。",
-  "Description": "创建多个独立配置，根据附近人数或非离开人数触发自定义开始和结束命令。",
+  "Punchline": "Run commands based on nearby player counts.",
+  "Description": "Create multiple independent profiles that run custom start and end commands based on nearby or non-AFK player counts.",
   "InternalName": "SoloTrigger",
   "AssemblyVersion": "0.2.0.0",
   "ApplicableVersion": "any",
@@ -21,6 +21,6 @@
   "IsTestingExclusive": false,
   "DownloadLinkInstall": "https://github.com/archiveduser/solo-trigger-dalamud/releases/download/0.2.0.0/SoloTrigger-0.2.0.0.zip",
   "DownloadLinkUpdate": "https://github.com/archiveduser/solo-trigger-dalamud/releases/download/0.2.0.0/SoloTrigger-0.2.0.0.zip",
-  "LastUpdate": "1785923571"
+  "LastUpdate": "1785923887"
 }
 
