@@ -13,5 +13,10 @@
     "repo": "archiveduser/solo-trigger-dalamud",
     "enabled": true,
     "assetPattern": "*.zip"
+  },
+  {
+    "repo": "archiveduser/yokai-check-dalamud",
+    "enabled": true,
+    "assetPattern": "*.zip"
   }
 ]
