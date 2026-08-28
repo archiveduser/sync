@@ -74,6 +74,27 @@
     "DownloadLinkInstall": "https://github.com/archiveduser/solo-trigger-dalamud/releases/download/0.2.0.0/SoloTrigger-0.2.0.0.zip",
     "DownloadLinkUpdate": "https://github.com/archiveduser/solo-trigger-dalamud/releases/download/0.2.0.0/SoloTrigger-0.2.0.0.zip",
     "LastUpdate": "1786157739"
+  },
+  {
+    "Author": "Haselnussbomber",
+    "Name": "Yo-kai Check",
+    "Punchline": "Tracking assistant for Yo-kai Watch rewards.",
+    "Description": "Yo-kai Check is a small plugin to assist you in tracking the rewards of the Yo-kai Watch event.\r\nIt can be opened with /yokai and shows a list of minions, weapons and how many medals you still need.\r\nWhen you have a minion summoned, the amount of medals you have and need for the weapon is displayed in the Server Info Bar.",
+    "InternalName": "YokaiCheck",
+    "AssemblyVersion": "1.3.1.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/Haselnussbomber/YokaiCheck",
+    "AcceptsFeedback": true,
+    "LoadRequiredState": 1,
+    "LoadSync": false,
+    "CanUnloadAsync": true,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/archiveduser/yokai-check-dalamud/releases/download/v1.3.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/archiveduser/yokai-check-dalamud/releases/download/v1.3.1/latest.zip",
+    "LastUpdate": "1787885507"
   }
 ]
 
