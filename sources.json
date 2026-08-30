@@ -18,5 +18,10 @@
     "repo": "archiveduser/yokai-check-dalamud",
     "enabled": true,
     "assetPattern": "*.zip"
+  },
+  {
+    "repo": "archiveduser/eureka-linker-dalamud",
+    "enabled": true,
+    "assetPattern": "*.zip"
   }
 ]
